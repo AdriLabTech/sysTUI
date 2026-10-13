@@ -70,7 +70,7 @@ sale de restar dos lecturas.
 
 - Terminar un proceso siempre pide confirmación, y `sysTUI` se niega a señalar
   el PID 1 y a sí mismo. Usa el comando `kill` del sistema: si el proceso es de
-  otro usuario, verás el error real («Operation not permitted»).
+  otro usuario, verás el error real del sistema (p. ej. «Operación no permitida»).
 - Un proceso que muere entre listar y leer se omite sin error.
 - Muestrea en el hilo principal; con ~500 procesos ocupa en torno al 2 % de
   un núcleo y 5 MB de memoria.
