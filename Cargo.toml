@@ -2,6 +2,9 @@
 name = "systui"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+description = "Monitor de sistema para el terminal, en Rust (Ratatui), leyendo de /proc"
+repository = "https://github.com/AdriLabTech/sysTUI"
 
 [dependencies]
 ratatui = "0.30.2"

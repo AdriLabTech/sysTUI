@@ -88,3 +88,7 @@ sale de restar dos lecturas.
 | `ui` | Todo el dibujo con Ratatui (no toca `/proc`) |
 
 Tests: `cargo test`.
+
+## Licencia
+
+MIT. Ver [LICENSE](LICENSE).
