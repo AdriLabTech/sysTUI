@@ -1,0 +1,12 @@
+[package]
+name = "systui"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ratatui = "0.30.2"
+
+[profile.release]
+strip = true
+lto = true
+codegen-units = 1
