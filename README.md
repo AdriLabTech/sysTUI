@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/hero.svg" alt="sysTUI" width="100%"></p>
+
 # sysTUI
 
 Un monitor de sistema pequeño para el terminal, parte de la familia de herramientas de TUI-OS (como fileTUI), escrito en Rust con
